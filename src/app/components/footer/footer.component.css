@@ -1,0 +1,26 @@
+   /* Custom CSS */
+   .custom-footer {
+    background-color: #343a40;
+    color: white;
+    padding: 40px 0;
+  }
+
+  .custom-footer a {
+    color: #f8f9fa;
+    text-decoration: none;
+  }
+
+  .custom-footer a:hover {
+    text-decoration: underline;
+  }
+
+  .custom-footer .social-icons a {
+    margin: 0 10px;
+    font-size: 1.5rem;
+  }
+
+  .footer-bottom {
+    text-align: center;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
